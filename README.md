@@ -1,4 +1,3 @@
-
 # Hi there 👋
 
 <table align="right" width="50%">
