@@ -1,13 +1,6 @@
 # Hi there 👋
 
-<table align="right" width="50%">
-  <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=juliakittlinger&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="Julia Kittlinger's GitHub Stats" alt="Julia Kittlinger's GitHub Stats"/></th>
-  </tr>
-  <tr>
-    <th><img src="https://tryhackme-badges.s3.amazonaws.com/juliakittlinger.png" alt="Julia Kittlinger's TryHackMe Stats"/></th>
-  </tr>
-</table>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=juliakittlinger&show_icons=true&hide_border=true&title_color=fff&bg_color=161b22&text_color=c9d1d9&icon_color=58a6ff" alt="Julia Kittlinger's GitHub Stats"/>
 
 ### 👀 I'm interested in
 
